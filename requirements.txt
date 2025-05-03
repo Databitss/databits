@@ -1,2 +1,5 @@
 torchtext==0.17.0
 bitsandbytes==0.40.2
+librosa>=0.11.0
+torch>=2.7.0
+tensorflow>=2.13.0
